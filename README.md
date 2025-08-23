@@ -24,7 +24,7 @@ cd iris-knn-classifier
 
 ### Run the Python script:
 
-python iris-knn-classifier.py
+python iris_knn_classifier.py
 
 
 ### Enter flower measurements when prompted to predict species:
